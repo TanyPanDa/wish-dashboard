@@ -1,4 +1,14 @@
-
+const user = {
+  name: "Tatiana",
+  surname: "Skip",
+  userPhoto: "photo.jpg",
+  qrQode: "qr-code.svg",
+  dreams: [
+    { src: "бмв.jpg", alt: "Авто моєї мрії" },
+    { src: "luk.jpg", alt: "Переможець із стрільби з лука" },
+    { src: "Програміст.jpg", alt: "Класний програміст" },
+  ],
+};
 
 // arr це середня місячна платня по рокам
 const arr = [
